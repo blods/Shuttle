@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="DolbyShuttle" List="113" Url="_catalogs/wp">
+    <File Path="Dolby Shuttle\VisualWebPart1.webpart" Url="DolbyShuttle_VisualWebPart1.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+      <Property Name="Title" Value="Dolby SF Shuttle" />
+    </File>
+  </Module>
+</Elements>

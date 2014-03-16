@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8d427bcc-ad28-4d55-8ebb-64b71401d263" solutionId="8d427bcc-ad28-4d55-8ebb-64b71401d263" resetWebServer="false" name="DolbyShuttle" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="750189f6-d033-4234-be35-be8bbcdef46f" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="7eddc2ef-a60b-4eab-8acb-2da584acf9fd" />
+    <projectItemReference itemId="320666a1-21e6-4d03-a811-8899a3e4fdb6" />
+  </projectItems>
+</package>
