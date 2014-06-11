@@ -35,7 +35,7 @@ namespace DolbyShuttle.VisualWebPart1
         
         DateTime currentTime;
         
-        /* String Array containing the schedule - Fields are as follows:
+        /* String Array containing the schedule - Fields are as follows::
          * Color - BLUE, GREEN, ORANGE, RED which represent the route
          * Whether its a schedule for everyday ALL, Monday-Thursday MTH, or Friday only FRI
          * Number of items in the record (i.e. how many stops
